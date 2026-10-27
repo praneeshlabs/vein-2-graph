@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+results/
+leaf_output/
+benchmark_results/
+smoke_inputs/
+smoke_output/
+real_test_inputs/
+.DS_Store
